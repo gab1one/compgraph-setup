@@ -1,0 +1,13 @@
+[~/git/imagej-ops-tiling]
+checkout = git clone 'git@github.com:MarcelWiedenmann/imagej-ops-tiling.git' 'imagej-ops-tiling'
+           git remote add upstream 'git@github.com:imagej/imagej-ops.git'
+           git checkout tiling-ops
+
+[~/git/imglib2-tiledviews]
+checkout = git clone 'git@github.com:MarcelWiedenmann/imglib2-tiledviews.git' 'imglib2-tiledviews'
+           git remote add upstream 'https://github.com/imglib/imglib2.git'
+           git checkout tiled-views
+
+[~/git/knip-compgraph]
+checkout = git clone 'git@github.com:knime-ip/knip-compgraph.git' 'knip-compgraph'
+           git checkout gabriel-refactor
