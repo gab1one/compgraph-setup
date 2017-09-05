@@ -1,12 +1,12 @@
 [submodule "imagej-ops-tiling"]
 	path = imagej-ops-tiling
 	url = git@github.com:MarcelWiedenmann/imagej-ops-tiling.git
-    branch = tiling-ops
+  	branch = tiling-ops
 [submodule "imglib2-tiledviews"]
 	path = imglib2-tiledviews
 	url = git@github.com:MarcelWiedenmann/imglib2-tiledviews.git
-    branch = tiled-views
+        branch = tiled-views
 [submodule "knip-compgraph"]
 	path = knip-compgraph
 	url = git@github.com:knime-ip/knip-compgraph.git
-    branch = gabriel-refactor
+        branch = gabriel-refactor
